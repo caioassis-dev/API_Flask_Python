@@ -40,5 +40,5 @@ Professores = [
         'cargaHoraria': 20,
         'nome':'Gorete',
         'salario':1800
-    },
+    }
 ]
